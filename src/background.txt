@@ -1,0 +1,14 @@
+Asphalt.jpg
+Concrete.jpg
+Grass.jpg
+Mud.jpg
+Paper.jpg
+Sand.jpg
+Snow.jpg
+Water.jpg
+Checkerboard.jpg
+Cobblestone.jpg
+Woodchips.jpg
+Rust.jpg
+Plaster.jpg
+Planks.jpg
